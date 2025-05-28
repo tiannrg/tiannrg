@@ -7,7 +7,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+<img align="right" src="https://ik.imagekit.io/tegcvglqf/gokuprogramer?updatedAt=1748408244294" width="400px">
 
 - 🎓 I am a student at **SENA**, pursuing a technologist degree in **Software Analysis and Development**.
 - 💻 I have experience with programming languages such as **Python**, **Java** and **PHP**
