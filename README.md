@@ -14,7 +14,7 @@
 - 🎨 I design graphically with tools such as **Figma**.
 - 🌐 I work with frameworks and tools like **Django**, **Laravel**.
 - 🖥️ I use IDEs such as **Visual Studio**, **Visual Studio Code**, and **NetBeans**.
-- 🗄️ I work with database management tools like **MySQL** and **HeidiSQL**.
+- 🗄️ I work with database management tools like **MySQL**, **SQL** and **HeidiSQL**.
 - 📂 I use **Git** and **GitHub** for version control and collaborative development.
 - 💪 I'm a disciplined person, passionate about technology, and growth-minded. I excel at leadership
       when proposing ideas and solutions, a good listener, and a great team player.
@@ -28,8 +28,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
   &nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="25">
   &nbsp;
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="25">
   &nbsp;
@@ -54,11 +52,8 @@
 
 ### Design Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" height="25">
-  &nbsp;
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="25">
   &nbsp;
-  <img src="https://img.shields.io/badge/WIX-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" height="25">
 </p>
 
 ### IDEs and Editors
@@ -69,9 +64,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="25">
   &nbsp;
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Phoenix_Code-FFA500?style=for-the-badge&logo=phoenix-framework&logoColor=white" height="25">
 </p>
 
 ### Databases and Management Tools
