@@ -11,11 +11,11 @@
 
 - 🎓 I am a student at **SENA**, pursuing a technologist degree in **Software Analysis and Development**.
 - 💻 I have experience with programming languages such as **Python**, **Java** and **PHP**
-- 🎨 I design graphically with tools such as **Figma**.
 - 🌐 I work with frameworks and tools like **Django**, **Laravel**.
-- 🖥️ I use IDEs such as **Visual Studio**, **Visual Studio Code**, and **NetBeans**.
-- 🗄️ I work with database management tools like **MySQL**, **SQL** and **HeidiSQL**.
 - 📂 I use **Git** and **GitHub** for version control and collaborative development.
+- 🎨 I design graphically with tools such as **Figma**.
+- 🖥️ I use IDEs such as **Visual Studio Code**, **Visual Studio**, and **NetBeans**.
+- 🗄️ I work with database management tools like **MySQL**, **SQL** and **HeidiSQL**.
 - 💪 I'm a disciplined person, passionate about technology, and growth-minded. I excel at leadership
       when proposing ideas and solutions, a good listener, and a great team player.
 - 🧠 Committed to continuous learning to strengthen my professional and personal development.
@@ -40,7 +40,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25">
   &nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
+  
 </p>
 
 ### Version Control
