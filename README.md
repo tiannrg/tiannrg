@@ -16,7 +16,8 @@
 - 🖥️ I use IDEs such as **Visual Studio**, **Visual Studio Code**, and **NetBeans**.
 - 🗄️ I work with database management tools like **MySQL** and **HeidiSQL**.
 - 📂 I use **Git** and **GitHub** for version control and collaborative development.
-- 💪 I'm a disciplined person, passionate about technology, and growth-minded. I excel at leadership when proposing ideas and solutions, a good listener, and a great team player.
+- 💪 I'm a disciplined person, passionate about technology, and growth-minded. I excel at leadership
+      when proposing ideas and solutions, a good listener, and a great team player.
 - 🧠 Committed to continuous learning to strengthen my professional and personal development.
 
 ---
