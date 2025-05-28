@@ -11,7 +11,7 @@
 
 - 🎓 I am a student at **SENA**, pursuing a technologist degree in **Software Analysis and Development**.
 - 💻 I have experience with programming languages such as **Python**, **Java** and **PHP**
-- 🌐 I work with frameworks and tools like **Django**, **Laravel**.
+- 🌐 I work with frameworks and tools like **Django** and **Laravel**.
 - 📂 I use **Git** and **GitHub** for version control and collaborative development.
 - 🎨 I design graphically with tools such as **Figma**.
 - 🖥️ I use IDEs such as **Visual Studio Code**, **Visual Studio**, and **NetBeans**.
@@ -38,6 +38,8 @@
 
 ### Frameworks and Libraries
 <p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25">
+  &nbsp;
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25">
   &nbsp;
   
