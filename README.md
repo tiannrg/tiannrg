@@ -7,7 +7,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About Me
 
-<img align="right" src="https://ik.imagekit.io/tegcvglqf/gokuprogramer?updatedAt=1748408244294" width="400px">
+<img align="right" src="https://ik.imagekit.io/tegcvglqf/gokuprogramer?updatedAt=1748408244294" width="300px">
 
 - 🎓 I am a student at **SENA**, pursuing a technologist degree in **Software Analysis and Development**.
 -  💪 I'm a disciplined person, passionate about technology, and growth-minded. I excel at leadership
