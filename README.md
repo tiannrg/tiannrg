@@ -10,3 +10,6 @@
 <img align="right" src="https://ik.imagekit.io/tegcvglqf/gokuprogramer?updatedAt=1748408244294" width="400px">
 
 - 🎓 I am a student at **SENA**, pursuing a technologist degree in **Software Analysis and Development**.
+- - 💪 I'm a disciplined person, passionate about technology, and growth-minded. I excel at leadership
+      when proposing ideas and solutions, a good listener, and a great team player.
+- 🧠 Committed to continuous learning to strengthen my professional and personal development.
