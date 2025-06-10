@@ -5,7 +5,7 @@
   </a>
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></picture> About Me
 
 <img align="right" src="https://ik.imagekit.io/tegcvglqf/gokuprogramer?updatedAt=1748408244294" width="400px">
 
